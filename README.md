@@ -23,3 +23,14 @@ Ghi chú:
 - Runtime browser test cần đường dẫn tới trình duyệt Chromium/Chrome/Edge nếu máy không có ở vị trí mặc định.
 - Site local đã loại bỏ Cloudflare Insights beacon để tránh request 404 và giảm nhiễu khi chạy offline/local.
 - Trang runtime chỉ dùng file MP4 tối ưu cho trình duyệt. File MOV chỉ còn là nguồn đầu vào tuỳ chọn cho bước regenerate nếu bạn giữ lại nó.
+
+## Để triển khai trên cloudflare cần bổ sung các file
+```bash
+.assetsignore
+wrangler.toml
+```
+trong file wrangler.toml
+```bash
+name = "<tên project trên cloundflare>"
+directory = "."    # file index.html ở ngay gốc repo nên để ".", nếu ở thư mục con khác thì sửa "./<sub_repo>"
+```
