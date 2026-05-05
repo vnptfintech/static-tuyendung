@@ -221,3 +221,6 @@ __marimo__/
 # Codex
 .aider*
 .codex
+node_modules
+scripts
+package*
