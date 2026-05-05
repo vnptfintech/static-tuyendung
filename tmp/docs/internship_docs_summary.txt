@@ -1,0 +1,408 @@
+FILE: JD-ANTT.docx
+P1: Thực tập sinh An Ninh Thông tin (Thực tập sinh ANTT) | Trung tâm VNPT FinTech
+P3: VỀ VNPT FinTech:
+P4: VNPT FinTech là đơn vị TIÊN PHONG được Tập đoàn Bưu Chính Viễn Thông Việt Nam (VNPT) giao nhiệm vụ triển khai và vận hành các dịch vụ tài chính số và được Ngân hàng Nhà nước cấp giấy phép cung ứng dịch vụ trung gian thanh toán. Tham gia vào VNPT FinTech đồng nghĩa với việc bạn sẽ tham gia vào 1 môi trường SỐ HOÁ và trở thành 1 thành viên của đại gia đình VNPT.
+P6: I. MÔ TẢ CÔNG VIỆC
+P7: Với vai trò Thực tập sinh ANTT, bạn sẽ tham gia vào việc đảm bảo an toàn cho các hệ thống tài chính số có lưu lượng lớn, yêu cầu bảo mật cao…
+P8: Công việc chính bao gồm:
+P9: Giám sát & vận hành an toàn hệ thống
+P10: Theo dõi log hệ thống, phát hiện bất thường
+P11: Hỗ trợ giám sát các hệ thống:
+P12: Application
+P13: Database
+P14: Network
+P15: Phối hợp xử lý sự cố an toàn thông tin
+P16: Kiểm thử & đánh giá bảo mật:
+P17: Hỗ trợ kiểm tra lỗ hổng bảo mật ứng dụng web/mobile
+P18: Thực hiện kiểm thử cơ bản:
+P19: SQL Injection
+P20: XSS
+P21: Authentication issues
+P22: Sử dụng các công cụ như:
+P23: Burp Suite
+P24: Wireshark
+P25: Hỗ trợ triển khai giải pháp bảo mật:
+P26: Tham gia cấu hình:
+P27: Firewall
+P28: WAF
+P29: Nginx security
+P30: Hỗ trợ triển khai các cơ chế:
+P31: Authentication / Authorization
+P32: Logging / Monitoring
+P33: Phân tích & báo cáo:
+P34: Phân tích log, truy vết sự cố
+P35: Viết tài liệu:
+P36: Báo cáo lỗ hổng
+P37: Hướng dẫn xử lý sự cố
+P38: Phối hợp với Dev, QA, System để khắc phục lỗi
+P40: II. YÊU CẦU ỨNG VIÊN
+P41: Chuyên môn & Học vấn:
+P42: Sinh viên năm cuối hoặc mới tốt nghiệp:
+P43: An toàn thông tin
+P44: Công nghệ thông tin
+P45: Hệ thống thông tin
+P46: Kiến thức & kỹ năng:
+P47: Có kiến thức cơ bản về:
+P48: Network (TCP/IP, HTTP/HTTPS)
+P49: Linux/Unix
+P50: Hiểu các khái niệm:
+P51: OWASP Top 10
+P52: Authentication / Authorization
+P53: Có hiểu biết về:
+P54: SQL / Database
+P55: Web architecture
+P56: Công cụ & công nghệ (lợi thế):
+P57: Biết sử dụng:
+P58: Burp Suite, Wireshark
+P59: Linux (Ubuntu)
+P60: Có kinh nghiệm với:
+P61: Nginx / Apache
+P62: Java / Backend system
+P63: Biết về:
+P64: SIEM, SOC là một lợi thế
+P65: Kỹ năng mềm
+P66: Tư duy logic tốt
+P67: Chủ động học hỏi
+P68: Làm việc nhóm trong môi hình Agile/Scrum
+P69: Cẩn thận, phù hợp hệ thống tài chính
+P70: Khác
+P71: Tiếng Anh đọc hiểu tài liệu kỹ thuật
+P72: Đam mê lĩnh vực An toàn thông tin
+P76: III. QUYỀN LỢI
+P77: Thu nhập: Có lộ trình trở thành nhân viên chính thức với thu nhập hấp dẫn.
+P78: Phát triển: Được đào về An toàn hệ thống thực tế, Security monitoring, Công nghệ tiếp cận: Microservices, High TPS system
+P79: Thời gian làm việc: Từ thứ 2 đến thứ 6 hàng tuần, từ 8 đến 17h.
+P80: Địa điểm làm việc: 57A Huỳnh Thúc Kháng, Láng Hạ, Đống Đa, Hà Nội.
+
+FILE: JD-PTDL.docx
+P1: Thực tập sinh Phân tích dữ liệu (Thực tập sinh PTDL) | Trung tâm VNPT FinTech
+P3: VỀ VNPT FinTech:
+P4: VNPT FinTech là đơn vị TIÊN PHONG được Tập đoàn Bưu Chính Viễn Thông Việt Nam (VNPT) giao nhiệm vụ triển khai và vận hành các dịch vụ tài chính số và được Ngân hàng Nhà nước cấp giấy phép cung ứng dịch vụ trung gian thanh toán. Tham gia vào VNPT FinTech đồng nghĩa với việc bạn sẽ tham gia vào 1 môi trường SỐ HOÁ và trở thành 1 thành viên của đại gia đình VNPT.
+P6: I. MÔ TẢ CÔNG VIỆC
+P7: Với vai trò Thực tập sinh Phân tích dữ liệu (PTDL), bạn sẽ tham gia vào việc đảm bảo an toàn cho các hệ thống tài chính số có lưu lượng lớn, yêu cầu bảo mật cao…
+P8: Công việc chính bao gồm:
+P9: I. MÔ TẢ CÔNG VIỆC
+P10: Với vai trò Data Analyst, bạn sẽ tham gia vào việc phân tích dữ liệu nhằm hỗ trợ ra quyết định cho các sản phẩm tài chính số có quy mô lớn.
+P11: Công việc chính bao gồm:
+P12: Phân tích dữ liệu
+P13: Thu thập, làm sạch và xử lý dữ liệu từ nhiều nguồn
+P14: Phân tích dữ liệu nhằm tìm ra insight phục vụ kinh doanh
+P15: Xây dựng các báo cáo định kỳ và ad-hoc
+P16: Xây dựng dashboard & báo cáo
+P17: Thiết kế và phát triển dashboard trực quan (BI tools)
+P18: Theo dõi các chỉ số quan trọng (KPIs)
+P19: Tối ưu hoá báo cáo phục vụ các phòng ban
+P20: Hỗ trợ ra quyết định
+P21: Phân tích hành vi người dùng
+P22: Đưa ra đề xuất cải thiện sản phẩm/dịch vụ
+P23: Hỗ trợ các team Product, Marketing, Business
+P24: Làm việc với dữ liệu
+P25: Viết truy vấn SQL để khai thác dữ liệu
+P26: Xây dựng các module xử lý và phân tích dữ liệu
+P27: Kiểm tra tính chính xác và nhất quán của dữ liệu
+P28: Phối hợp liên phòng ban
+P29: Hợp tác với Product/Business để hiểu yêu cầu
+P30: Trình bày kết quả phân tích cho stakeholders
+P32: II. YÊU CẦU ỨNG VIÊN
+P33: Chuyên môn & Học vấn:
+P34: Tốt nghiệp hoặc sinh viên từ năm 2 trờ lên các ngành:
+P35: Khoa học dữ liệu
+P36: Khoa học máy tính
+P37: Công nghệ thông tin
+P38: Toán tin / Thống kê
+P39: Kế toán/tài chính
+P40: Kiến thức & kỹ năng:
+P41: Có kiến thức cơ bản về:
+P42: SQL, Database
+P43: Xử lý và phân tích dữ liệu
+P44: Thống kê cơ bản
+P45: Có hiểu biết về:
+P46: Data visualization
+P47: Data warehouse / ETL
+P48: Công cụ & công nghệ (lợi thế):
+P49: Thành thạo:
+P50: SQL (MySQL, PostgreSQL, Oracle…)
+P51: Biết sử dụng:
+P52: Python (Pandas, NumPy)
+P53: Excel / Google Sheets nâng cao
+P54: Có kinh nghiệm với:
+P55: Power BI / Tableau
+P56: Hiểu về:
+P57: Big Data (Spark, Hadoop) là một lợi thế
+P58: Kỹ năng mềm:
+P59: Tư duy phân tích, logic tốt
+P60: Khả năng trình bày dữ liệu rõ ràng
+P61: Chủ động học hỏi
+P62: Làm việc nhóm trong môi trường Agile/Scrum
+P63: Khác:
+P64: Tiếng Anh đọc hiểu tài liệu kỹ thuật
+P65: Có tư duy sản phẩm và data-driven mindset
+P68: III. QUYỀN LỢI
+P69: Thu nhập: Có lộ trình phát triển rõ ràng với mức thu nhập cạnh tranh
+P70: Phát triển: Làm việc với hệ thống dữ liệu lớn, được được trang bị thêm các kiến thức các nghiệp vụ liên quan Tài chính, Ví điện tử, Trung gian thanh toán và một số nghiệp vụ khác của đơn vị. Tiếp cận các công nghệ hiện đại: Data Warehouse, BI, Microservices. Được định hướng về mindset và kỹ năng phân tích dữ liệu
+P71: Thời gian làm việc: Thứ 2 – Thứ 6, từ 8h – 17h
+P72: Địa điểm làm việc: 57A Huỳnh Thúc Kháng, Láng Hạ, Đống Đa, Hà Nội
+P74: Lưu ý: Do đặc thù của Phân tích dữ lệu là tiếp xúc với dữ liệu thật cần đảm bảo bảo mật thông tin nên sẽ có giai đoạn đầu thực tập sinh sẽ làm việc trên dữ liệu giả lập để được đánh giá khả năng và đào tạo thêm về nghiệp vụ sản phẩm.
+
+FILE: JD-PTPS-PO Intern.docx
+P1: Thực tập sinh Phát triển Sản phẩm (Thực tập sinh PO) | Trung tâm VNPT FinTech
+P2: VỀ VNPT FinTech:
+P3: VNPT FinTech là đơn vị TIÊN PHONG được Tập đoàn Bưu Chính Viễn Thông Việt Nam (VNPT) giao nhiệm vụ triển khai và vận hành các dịch vụ tài chính số và được Ngân hàng Nhà nước cấp giấy phép cung ứng dịch vụ trung gian thanh toán. Tham gia vào VNPT FinTech đồng nghĩa với việc bạn sẽ tham gia vào 1 môi trường SỐ HOÁ và trở thành 1 thành viên của đại gia đình VNPT.
+P5: I. MÔ TẢ CÔNG VIỆC
+P6: Với vai trò Thực tập sinh PO, bạn sẽ tham gia hỗ trợ định hướng, thiết kế và phát triển toàn diện các sản phẩm/dịch vụ của VNPT Money và các nền tảng liên quan như Ví điện tử, Mobile Money, Cổng thanh toán…
+P7: Định hướng & Xây dựng chiến lược sản phẩm:
+P8: Hỗ trợ nghiên cứu thị trường, thấu hiểu hành vi người dùng để tham gia xây dựng tầm nhìn và lộ trình phát triển.
+P9: Tham gia dẫn dắt việc phát triển các tính năng thanh toán cốt lõi và mở rộng hệ sinh thái tài chính trên đa nền tảng.
+P10: Quản lý Yêu cầu sản phẩm:
+P11: Làm việc với các bên liên quan (Stakeholders) bao gồm đội ngũ Kỹ thuật (Dev/QA), Kinh doanh, Vận hành để khảo sát, tiếp nhận và làm rõ yêu cầu sản phẩm.
+P12: Định nghĩa hành trình khách hàng (User Journey), xác định mục tiêu cần giải quyết của người dùng (JTBD) với tư duy lấy người dùng làm trung tâm (User-centric).
+P13: Viết tài liệu yêu cầu người dùng (URD), xác định tiêu chí nghiệm thu rõ ràng và phối hợp chặt chẽ với đội ngũ BA, UI/UX Designer để chuyển hóa thành các bản thiết kế, tài liệu đặc tả nghiệp vụ chi tiết.
+P14: Nghiệm thu & Theo dõi sức khỏe sản phẩm:
+P15: Trực tiếp nghiệm thu các tính năng sau mỗi giai đoạn phát triển và hỗ trợ kiểm thử sản phẩm.
+P16: Thiết lập hệ thống bám vết sự kiện (Event Tracking), thiết kế các chỉ số đo lường (Metrics) để theo dõi sức khỏe sản phẩm.
+P17: Phối hợp với đội ngũ Data để xây dựng các bảng thống kê (Dashboard), phân tích dữ liệu, theo dõi các lỗi hệ thống nhằm liên tục tối ưu hóa và cải tiến sản phẩm.
+P18: II. YÊU CẦU ỨNG VIÊN
+P19: Chuyên môn & Học vấn:
+P20: Sinh viên năm cuối hoặc mới tốt nghiệp chuyên ngành CNTT, Hệ thống thông tin hoặc các ngành kinh tế, tài chính.
+P21: Có tư duy logic, tư duy giải quyết vấn đề và khả năng bóc tách tìm nguyên nhân gốc rễ.
+P22: Có sự tò mò, chủ động đặt câu hỏi để hiểu sâu vấn đề thay vì chỉ tiếp nhận yêu cầu thụ động.
+P23: Công cụ & Kỹ năng:
+P24: Ưu tiên biết sử dụng Figma và Jira
+P25: Có tư duy phân tích dữ liệu cơ bản (biết sử dụng SQL hoặc các công cụ Analytics là một lợi thế lớn).
+P26: Ưu tiên ứng viên có hiểu biết về lĩnh vực Banking, FinTech, Ví điện tử, Thanh toán hoặc Viễn thông.
+P27: Ưu tiên ứng viên có hiểu biết về trải nghiệm người dùng (UX) và biết cách thực hiện nghiên cứu thị trường (Market Research).
+P28: Ưu tiên ứng viên đã từng tham gia các khóa học chuyên môn về Quản trị Sản phẩm (Product Management).
+P29: Kỹ năng mềm:
+P30: Làm việc nhóm tốt, có khả năng thích ứng linh hoạt với sự thay đổi yêu cầu nhanh chóng
+P31: Cẩn thận, tỉ mỉ, đảm bảo tính ổn định và chính xác của hệ thống tài chính.
+P32: Tiếng Anh tốt là điểm cộng.
+P33: III. QUYỀN LỢI
+P34: Thu nhập: Có lộ trình trở thành nhân viên chính thức với thu nhập hấp dẫn.
+P35: Phát triển: Được đào tạo thực chiến về Agile/Scrum, tư duy dữ liệu (Data-driven, A/B Testing). Hiểu sâu về đặc thù ngành FinTech (Compliance, eKYC, Payment Gateway) và kiến trúc hệ thống cơ bản (API, Microservices).
+P36: Thời gian làm việc: Từ thứ 2 đến thứ 6 hàng tuần, từ 8 đến 17h.
+P37: Địa điểm làm việc: 57A Huỳnh Thúc Kháng, Láng Hạ, Đống Đa, Hà Nội.
+
+FILE: JD-PTSP-BA Intern.docx
+P1: Thực tập sinh Phân tích nghiệp vụ (Thực tập sinh BA) | Trung tâm VNPT FinTech
+P3: VỀ VNPT FinTech:
+P4: VNPT FinTech là đơn vị TIÊN PHONG được Tập đoàn Bưu Chính Viễn Thông Việt Nam (VNPT) giao nhiệm vụ triển khai và vận hành các dịch vụ tài chính số và được Ngân hàng Nhà nước cấp giấy phép cung ứng dịch vụ trung gian thanh toán. Tham gia vào VNPT FinTech đồng nghĩa với việc bạn sẽ tham gia vào 1 môi trường SỐ HOÁ và trở thành 1 thành viên của đại gia đình VNPT.
+P6: I. MÔ TẢ CÔNG VIỆC
+P7: Với vai trò Thực tập sinh BA, bạn sẽ tham gia phát triển toàn diện các sản phẩm/dịch vụ của VNPT Money và các nền tảng liên quan như Ví điện tử, Mobile Money, Cổng thanh toán…
+P8: Công việc chính bao gồm:
+P9: Khảo sát & Phân tích yêu cầu sản phẩm:
+P10: Khảo sát, tiếp nhận yêu cầu sản phẩm.
+P11: Phân tích và tư vấn nghiệp vụ.
+P12: Xây dựng tài liệu & Thiết kế:
+P13: Vẽ Wireframe/Mockup cho luồng người dùng (sử dụng Figma).
+P14: Vẽ luồng nghiệp vụ.
+P15: Tham gia trao đổi xây dựng phương án kỹ thuật.
+P16: Xây dựng tài liệu đặc tả nghiệp vụ.
+P17: Xây dựng tài liệu hướng dẫn sử dụng.
+P18: Quản lý quy trình trên Jira:
+P19: Quản lý, theo dõi tiến độ công việc và phối hợp trong mô hình Scrum/Agile, sử dụng công cụ Jira.
+P20: Phối hợp trong dự án với các đội PO, PM, QA, Dev để đảm bảo chất lượng và tiến độ phát triển sản phẩm.
+P21: Hỗ trợ Vận hành & Kiểm thử:
+P22: Hỗ trợ kiểm thử sản phẩm.
+P23: Hỗ trợ kiểm tra các lỗi hệ thống và phản ánh của người dùng.
+P25: II. YÊU CẦU ỨNG VIÊN
+P26: Chuyên môn & Học vấn:
+P27: Sinh viên năm cuối hoặc mới tốt nghiệp chuyên ngành CNTT, Hệ thống thông tin hoặc các ngành kinh tế, tài chính.
+P28: Có tư duy logic & và tư duy về sản phẩm tốt, cẩn thận, chủ động giải quyết vấn đề.
+P29: Công cụ & Kỹ năng:
+P30: Biết sử dụng Figma để thiết kế giao diện cơ bản và Jira để quản lý task là một lợi thế.
+P31: Có kỹ năng đọc hiểu tài liệu kỹ thuật, tài liệu nghiệp vụ.
+P32: Ưu tiên ứng viên hiểu biết về lĩnh vực Banking, Ví điện tử hoặc Viễn thông.
+P33: Kỹ năng mềm:
+P34: Làm việc nhóm tốt, phối hợp nhiều bộ phận trong mô hình Scrum/Agile.
+P35: Cẩn thận, tỉ mỉ, đảm bảo tính ổn định và chính xác của hệ thống tài chính.
+P36: Tiếng Anh đọc hiểu tốt là điểm cộng.
+P38: III. QUYỀN LỢI
+P39: Thu nhập: Có lộ trình trở thành nhân viên chính thức với thu nhập hấp dẫn.
+P40: Phát triển: Được đào về sản phẩm và chuyên môn nghiệp vụ BA, các công nghệ và quy trình mới: Microservices, Agile, AI.
+P41: Thời gian làm việc: Từ thứ 2 đến thứ 6 hàng tuần, từ 8 đến 17h.
+P42: Địa điểm làm việc: 57A Huỳnh Thúc Kháng, Láng Hạ, Đống Đa, Hà Nội.
+
+FILE: JD-PTSP-DEV Intern.docx
+P1: Thực tập sinh Lập trình viên (Thực tập sinh DEV) | Trung tâm VNPT FinTech
+P3: VỀ VNPT FINTECH:
+P4: VNPT FinTech là đơn vị TIÊN PHONG được Tập đoàn Bưu Chính Viễn Thông Việt Nam (VNPT) giao nhiệm vụ triển khai và vận hành các dịch vụ tài chính số và được Ngân hàng Nhà nước cấp giấy phép cung ứng dịch vụ trung gian thanh toán. Tham gia vào VNPT FinTech đồng nghĩa với việc bạn sẽ tham gia vào 1 môi trường SỐ HOÁ và trở thành 1 thành viên của đại gia đình VNPT.
+P6: I. MÔ TẢ CÔNG VIỆC
+P8: Với vai trò Thực tập sinh DEV, bạn sẽ tham gia phát triển toàn diện các sản phẩm/dịch vụ của VNPT Money và các nền tảng liên quan như Ví điện tử, Mobile Money, Cổng thanh toán, VNPT Loyaty, Gamification…bao gồm cả Frontend (Angular/ReactJS) và Backend (Java Core, Spring Boot). Công việc chính bao gồm:
+P9: Phát triển hệ thống Backend:
+P10: Thiết kế, xây dựng và tối ưu hóa API bằng Java Core & Spring Boot.
+P11: Phát triển các module xử lý giao dịch, bảo mật, tích hợp thanh toán và hệ thống định danh.
+P12: Tối ưu hiệu năng, khả năng mở rộng và tính ổn định của hệ thống backend có lượng người dùng lớn.
+P13: Làm việc với cơ sở dữ liệu quan hệ Oracle và NoSQL (MySQL, PostgreSQL, Redis, MongoDB,...).
+P14: Phát triển Frontend:
+P15: Xây dựng giao diện web/app sử dụng Angular và ReactJS.
+P16: Tối ưu UX/UI theo guideline của sản phẩm.
+P17: Triển khai state management, lazy loading, tối ưu hiệu năng trình duyệt.
+P18: Kết nối API, xử lý dữ liệu realtime, form validation, error handling.
+P19: Phối hợp & báo cáo:
+P20: Làm quen với các đội PO, PM, BA, QA, DevOps, Security để có thể tham gia vào quy trình phát triển sản phẩm.
+P21: Báo cáo tiến độ và đề xuất giải pháp cải tiến.
+P23: II. YÊU CẦU ỨNG VIÊN
+P24: 1. Kinh nghiệm & chuyên môn
+P25: Sinh viên từ năm Thứ 3 chuyên ngành CNTT
+P26: Có tư duy logic & và tư duy về sản phẩm tốt, cẩn thận, chủ động giải quyết vấn đề.
+P27: Có kiến thức một trong hai framework frontend: Angular hoặc ReactJS (ưu tiên biết cả hai).
+P28: Có kiến thức Java Core, Spring Boot, OOP, RESTful API.
+P29: Hiểu biết về kiến trúc microservices, message queue (Kafka, RabbitMQ) là điểm cộng lớn.
+P30: Kinh nghiệm làm việc với CI/CD, Git, Docker là lợi thế.
+P31: 2. Kỹ năng quan trọng
+P32: Tư duy logic & kỹ thuật tốt, chủ động giải quyết vấn đề.
+P33: Kỹ năng đọc hiểu tài liệu kỹ thuật, tài liệu nghiệp vụ.
+P34: Làm việc nhóm tốt, phối hợp nhiều bộ phận trong mô hình Scrum/Agile.
+P35: Cẩn thận trong coding, đảm bảo tính ổn định của hệ thống tài chính.
+P36: 3. Ưu tiên & yêu cầu bổ sung
+P37: Có làm quen các công cụ AI.
+P38: Tiếng Anh đọc hiểu tốt là điểm cộng.
+P39: Làm việc nhóm tốt, phối hợp nhiều bộ phận trong mô hình Scrum/Agile.
+P40: Cẩn thận, tỉ mỉ, đảm bảo tính ổn định và chính xác của hệ thống tài chính.
+P42: III. QUYỀN LỢI
+P43: Thu nhập: Có lộ trình trở thành nhân viên của VNPT Fintech với thu nhập hấp dẫn.
+P44: Phát triển: Được đào về lập trình, sản phẩm các công nghệ và quy trình mới: Microservices, Agile, AI.
+P45: Thời gian làm việc: Từ thứ 2 đến thứ 6 hàng tuần, từ 8 đến 17h.
+P46: Địa điểm làm việc: 57A Huỳnh Thúc Kháng, Láng Hạ, Đống Đa, Hà Nội.
+
+FILE: JD-PTSP-QA Intern.docx
+P1: Thực tập sinh Kiểm thử phần mềm (Thực tập sinh QA) | Trung tâm VNPT FinTech
+P3: VỀ VNPT FinTech:
+P4: VNPT FinTech là đơn vị TIÊN PHONG được Tập đoàn Bưu Chính Viễn Thông Việt Nam (VNPT) giao nhiệm vụ triển khai và vận hành các dịch vụ tài chính số và được Ngân hàng Nhà nước cấp giấy phép cung ứng dịch vụ trung gian thanh toán. Tham gia vào VNPT FinTech đồng nghĩa với việc bạn sẽ tham gia vào 1 môi trường SỐ HOÁ và trở thành 1 thành viên của đại gia đình VNPT.
+P6: I. MÔ TẢ CÔNG VIỆC
+P7: Với vai trò Thực tập sinh QA, bạn sẽ tham gia kiểm thử toàn diện các sản phẩm/dịch vụ của VNPT Money và các nền tảng liên quan như Ví điện tử, Mobile Money, Cổng thanh toán…
+P8: Công việc chính bao gồm:
+P9: Lập kế hoạch test và kịch bản test, chuẩn bị dữ liệu test.
+P10: Kiểm thử chất lượng phần mềm, nghiệm thu sản phẩm trước khi thực hiện chuyển giao.
+P11: Log bug lên công cụ jira
+P12: Phân tích lỗi và phối hợp với các lập trình viên/nhà thiết kế để đảm bảo chất lượng sản phẩm.
+P13: Phối hợp với các bộ phận khác của công ty để đảm bảo chất lượng dự án.
+P14: Đề xuất cải tiến quy trình kiểm thử và nâng cao độ tin cậy của sản phẩm.
+P17: II. YÊU CẦU ỨNG VIÊN
+P18: Chuyên môn & Học vấn:
+P19: Sinh viên từ năm Thứ 3 chuyên ngành CNTT, Hệ thống thông tin hoặc chuyên ngành khác thì yêu cầu có chứng chỉ tester.
+P20: Có tư duy logic & và tư duy về sản phẩm tốt, cẩn thận, chủ động giải quyết vấn đề.
+P21: Công cụ & Kỹ năng:
+P22: Có kiến thức tốt về IT hiểu được thiết kế kỹ thuật và các thông số kỹ thuật, hệ thống ứng dụng phần mềm, các ngôn ngữ lập trình.
+P23: Hiểu biết về quy trình phát triển phần mềm
+P24: Có kỹ năng đọc hiểu, phân tích tài liệu kỹ thuật, tài liệu nghiệp vụ.
+P25: Kỹ năng mềm:
+P26: Làm việc nhóm tốt, phối hợp nhiều bộ phận trong mô hình Scrum/Agile.
+P27: Cẩn thận, tỉ mỉ, đảm bảo tính ổn định và chính xác của hệ thống tài chính.
+P28: Tiếng Anh đọc hiểu tốt là điểm cộng.
+P30: III. QUYỀN LỢI
+P31: Thu nhập: Có lộ trình trở thành nhân viên chính thức với thu nhập hấp dẫn.
+P32: Phát triển: Được đào về sản phẩm và chuyên môn nghiệp vụ QA, các công nghệ và quy trình mới: Agile, AI, Autotest, DevOps.
+P33: Thời gian làm việc: Từ thứ 2 đến thứ 6 hàng tuần, từ 8 đến 17h.
+P34: Địa điểm làm việc: 57A Huỳnh Thúc Kháng, Láng Hạ, Đống Đa, Hà Nội.
+
+FILE: JD-PTSP-UXUI Intern.docx
+P1: Thực tập sinh Thiết kế giao diện (Thực tập sinh UX/UI) | Trung tâm VNPT FinTech
+P3: VỀ VNPT FinTech:
+P4: VNPT FinTech là đơn vị TIÊN PHONG được Tập đoàn Bưu Chính Viễn Thông Việt Nam (VNPT) giao nhiệm vụ triển khai và vận hành các dịch vụ tài chính số và được Ngân hàng Nhà nước cấp giấy phép cung ứng dịch vụ trung gian thanh toán. Tham gia vào VNPT FinTech đồng nghĩa với việc bạn sẽ tham gia vào 1 môi trường SỐ HOÁ và trở thành 1 thành viên của đại gia đình VNPT.
+P6: I. MÔ TẢ CÔNG VIỆC
+P7: Với vai trò Thực tập sinh UX/UI, bạn sẽ tham gia phát triển toàn diện các sản phẩm/dịch vụ của VNPT Money và các nền tảng liên quan như Ví điện tử, Mobile Money, Cổng thanh toán…
+P8: Nhiệm vụ chính
+P9: Hỗ trợ thiết kế UI: Thiết kế các màn hình giao diện (Mobile App/Web) dựa trên hệ thống Design System có sẵn.
+P10: Nghiên cứu UX: Hỗ trợ thực hiện User Research, phân tích hành vi người dùng trên các luồng giao dịch tài chính (nạp tiền, chuyển tiền, thanh toán hóa đơn...).
+P11: Xây dựng Prototype: Tạo các bản mẫu tương tác (Prototyping) để mô phỏng luồng trải nghiệm người dùng trước khi chuyển giao cho đội ngũ lập trình.
+P12: Duy trì Design System: Cùng đội ngũ cập nhật và chuẩn hóa bộ thư viện thành phần (components) trên Figma.
+P13: Phối hợp: Làm việc chặt chẽ với bộ phận Product Owner (PO) và Developer để đảm bảo thiết kế được thực thi chính xác trên thực tế.
+P14: Hỗ trợ kiểm thử sản phẩm.
+P15: Hỗ trợ kiểm tra các lỗi hệ thống và phản ánh của người dùng.
+P17: II. YÊU CẦU ỨNG VIÊN
+P18: Chuyên môn & Học vấn:
+P19: Sinh viên năm cuối hoặc mới tốt nghiệp các chuyên ngành Thiết kế đồ họa, CNTT, Multimedia hoặc các khóa học UI/UX uy tín.
+P20: Có tư duy thẩm mỹ hiện đại, sạch sẽ. Hiểu cơ bản về Grid system, Typography và Color theory.
+P21: Kỹ năng: Có khả năng làm việc nhóm, ham học hỏi và chịu khó tìm hiểu các xu hướng thiết kế mới.
+P22: Thái độ nghiêm túc, cởi mở, ham học hỏi, cầu tiến.
+P23: Công cụ & Kỹ năng:
+P24: Sử dụng thành thạo Figma (bắt buộc). Biết sử dụng Adobe Suite (Illustrator, Photoshop) là một lợi thế.
+P25: Có kỹ năng đọc hiểu tài liệu URD, luồng người dùng.
+P26: Ưu tiên ứng viên có hiểu biết cơ bản về UX/UI hoặc tốt nghiệp từ các trường ĐH/chuyên ngành nghệ thuật, đồ họa.
+P27: Kỹ năng mềm:
+P28: Làm việc nhóm tốt, phối hợp nhiều bộ phận trong mô hình Scrum/Agile.
+P29: Cẩn thận, tỉ mỉ, giao tiếp tốt.
+P30: Tiếng Anh đọc hiểu tốt là điểm cộng.
+P32: III. QUYỀN LỢI
+P33: Thu nhập: Có lộ trình trở thành nhân viên chính thức với thu nhập hấp dẫn.
+P34: Phát triển: Được đào tạo về sản phẩm và chuyên môn nghiệp vụ UX/UI, các công nghệ và quy trình mới: Microservices, Agile, AI.
+P35: Thời gian làm việc: Từ thứ 2 đến thứ 6 hàng tuần, từ 8 đến 17h.
+P36: Địa điểm làm việc: 57A Huỳnh Thúc Kháng, Láng Hạ, Đống Đa, Hà Nội.
+
+FILE: JD-QTHT.docx
+P1: Thực tập sinh QUẢN TRỊ HỆ THỐNG (Thực tập sinh System Administrator) | Trung tâm VNPT FinTech
+P3: VỀ VNPT FinTech:
+P4: VNPT FinTech là đơn vị TIÊN PHONG được Tập đoàn Bưu Chính Viễn Thông Việt Nam (VNPT) giao nhiệm vụ triển khai và vận hành các dịch vụ tài chính số và được Ngân hàng Nhà nước cấp giấy phép cung ứng dịch vụ trung gian thanh toán. Tham gia vào VNPT FinTech đồng nghĩa với việc bạn sẽ tham gia vào 1 môi trường SỐ HOÁ và trở thành 1 thành viên của đại gia đình VNPT.
+P6: I. MÔ TẢ CÔNG VIỆC
+P7: Với vai trò Thực tập sinh Quản trị hệ thống, bạn sẽ tham gia hỗ trợ vận hành và tối ưu hạ tầng hệ thống CNTT.
+P8: Công việc chính bao gồm:
+P9: Vận hành & giám sát hệ thống
+P10: Theo dõi tình trạng hệ thống:
+P11: Server (Linux/Windows)
+P12: Application
+P13: Database
+P14: Giám sát tài nguyên:
+P15: CPU, RAM, Disk, Network
+P16: Hỗ trợ xử lý sự cố hệ thống (downtime, performance)
+P17: Quản trị máy chủ & dịch vụ
+P18: Cài đặt, cấu hình:
+P19: Linux (Ubuntu/CentOS)
+P20: Web server (Nginx, Apache)
+P21: Hỗ trợ quản trị:
+P22: Application server
+P23: Database (MySQL, Oracle – cơ bản)
+P24: Triển khai & hỗ trợ hệ thống
+P25: Hỗ trợ deploy ứng dụng (Java, API services…)
+P26: Làm việc với:
+P27: File config
+P28: Environment setup
+P29: Hỗ trợ CI/CD cơ bản (nếu có)
+P30: Bảo mật hệ thống cơ bản
+P31: Cấu hình:
+P32: Firewall
+P33: SSL/TLS
+P34: Kiểm tra log, phát hiện bất thường
+P35: Hỗ trợ đảm bảo an toàn hệ thống
+P36: Tài liệu & phối hợp
+P37: Viết tài liệu:
+P38: Hướng dẫn vận hành
+P39: Runbook xử lý sự cố
+P40: Phối hợp với:
+P41: Dev
+P42: QA
+P43: ANTT
+P44: II. YÊU CẦU ỨNG VIÊN
+P45: Chuyên môn & Học vấn:
+P46: Sinh viên năm cuối hoặc mới tốt nghiệp:
+P47: Công nghệ thông tin
+P48: Hệ thống thông tin
+P49: Mạng máy tính
+P50: Kiến thức & kỹ năng:
+P51: Có kiến thức cơ bản về:
+P52: Hệ điều hành Linux/Unix
+P53: Network (TCP/IP, DNS, HTTP/HTTPS)
+P54: Hiểu:
+P55: Client – Server
+P56: Web architecture
+P57: Kỹ năng & công cụ
+P58: Biết sử dụng:
+P59: Linux command line
+P60: SSH
+P61: Có kinh nghiệm (lợi thế):
+P62: Nginx / Apache
+P63: Docker (cơ bản)
+P64: Git
+P65: Kỹ năng mềm
+P66: Tư duy logic tốt
+P67: Chủ động học hỏi
+P68: Làm việc nhóm trong môi hình Agile/Scrum
+P69: Cẩn thận, phù hợp hệ thống tài chính
+P70: Khác
+P71: Đọc hiểu tài liệu tiếng Anh
+P72: Có định hướng theo System / DevOps / SRE
+P73: III. QUYỀN LỢI
+P74: Thu nhập: Có lộ trình trở thành nhân viên chính thức với thu nhập hấp dẫn.
+P75: Phát triển: Được đào về System thực tế, Kiến trúc Microservices
+P76: Thời gian làm việc: Từ thứ 2 đến thứ 6 hàng tuần, từ 8 đến 17h.
+P77: Địa điểm làm việc: 57A Huỳnh Thúc Kháng, Láng Hạ, Đống Đa, Hà Nội.

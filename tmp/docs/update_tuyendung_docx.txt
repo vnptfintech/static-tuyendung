@@ -1,0 +1,24 @@
+PARAGRAPHS: 32
+TABLES: 0
+
+P1: Chỉnh sửa website tuyển dụng link: https://tuyendung.vnptmoney.vn/
+P3: 1.
+P5: Thay video bằng Video Fin Tết 2026
+P6: 2.
+P7: => Thay text: VNPT FinTech là đơn vị TIÊN PHONG được Tập đoàn Bưu Chính Viễn Thông Việt Nam (VNPT) giao nhiệm vụ triển khai và vận hành các dịch vụ tài chính số và được Ngân hàng Nhà nước cấp giấy phép cung ứng dịch vụ trung gian thanh toán. Tham gia vào VNPT FinTech đồng nghĩa với việc bạn sẽ tham gia vào 1 môi trường SỐ HOÁ và trở thành 1 thành viên của đại gia đình VNPT.
+P8: 3.
+P9: => thay text: FinTech đang được xếp vào TOP  các nhóm ngành nghề triển vọng tại Việt Nam và là hệ sinh thái dịch vụ được VNPT đầu tư, chú trọng, quyết tâm có những đột phá trên thị trường. Vậy tại sao bạn lại không thử sức mình trong 1 lĩnh vực đầy tính thách thức nhưng cũng nhiều cơ hội phát triển như vậy bằng cách gia nhập Trung tâm dịch vụ tài chính số VNPT FinTech.
+P10: 4.
+P11: => phần này thay bằng nhóm 5 ảnh sau,
+P17: Khi click vào từng ảnh, sẽ hiện lên text màu trắng với nội dung lần lượt:
+P18: NƠI MÀ CHÚNG TÔI MỖI NGƯỜI MỘT CÁ TÌNH NHƯNG ĐỀU QUYẾT LIỆT – DỨT KHOÁT
+P19: NƠI MÀ SÁNG TẠO – TIÊN PHONG LUÔN ĐẶT LÊN HÀNG ĐẦU
+P20: NƠI MÀ CHÚNG TÔI “QUẨY” HẾT MÌNH – “CÀY” NHIỆT TÌNH
+P21: NƠI MÀ CHÚNG TÔI CỨ “SÁNG TẠO” ẮT CÓ “GẠO NGON”
+P22: NƠI MÀ CHÚNG TÔI THÍCH LÀ NHÍCH – XÍCH GẦN NHAU
+P24: 5.
+P25: => TẤT CẢ VIỆC LÀM thay thành: THAM GIA CÙNG CHÚNG TÔI
+P27: 6. Các mục tuyển dụng sẽ trình bày dạng bảng, kiểu như sau, gồm 2 bảng:
+P28: - TUYỂN DỤNG NÓNG
+P29: - TUYỂN DỤNG THỰC TẬP SINH/ HỌC VIỆC
+P30: Với mỗi Công việc khi click vào sẽ tới trang thông tin mô tả chi tiết.

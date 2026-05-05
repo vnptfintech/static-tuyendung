@@ -1,0 +1,15 @@
+{
+  "name": "vnpt-fintech-recruitment-clone",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "start": "node scripts/local_server_t426.mjs",
+    "serve": "node scripts/local_server_t426.mjs",
+    "test:content": "python3 scripts/test_t426_requirements.py",
+    "test:runtime": "node scripts/runtime_check_t426.mjs",
+    "test": "python3 scripts/test_t426_requirements.py && node scripts/runtime_check_t426.mjs"
+  },
+  "dependencies": {
+    "playwright-core": "^1.59.1"
+  }
+}
