@@ -225,3 +225,4 @@ node_modules
 .wrangler
 scripts
 package*
+update_tuyendung/

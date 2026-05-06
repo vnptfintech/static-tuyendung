@@ -1,0 +1,14 @@
+127.0.0.1 - - [06/May/2026 15:20:38] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [06/May/2026 15:20:39] "GET /po.html HTTP/1.1" 200 -
+127.0.0.1 - - [06/May/2026 15:20:39] "GET /business-development-b2b.html HTTP/1.1" 200 -
+127.0.0.1 - - [06/May/2026 15:20:56] "GET / HTTP/1.1" 200 -
+127.0.0.1 - - [06/May/2026 15:21:23] "GET / HTTP/1.1" 304 -
+127.0.0.1 - - [06/May/2026 15:21:27] "GET /assets/images/favicon.png HTTP/1.1" 200 -
+127.0.0.1 - - [06/May/2026 15:21:28] "GET /po.html HTTP/1.1" 200 -
+127.0.0.1 - - [06/May/2026 15:21:28] "GET /assets/css/detail.css HTTP/1.1" 200 -
+127.0.0.1 - - [06/May/2026 15:21:28] "GET /assets/images/banner-detail.jpg HTTP/1.1" 200 -
+127.0.0.1 - - [06/May/2026 15:21:28] "GET /assets/webfonts/fa-solid-900.woff2 HTTP/1.1" 200 -
+127.0.0.1 - - [06/May/2026 15:21:33] "GET /business-development-b2b.html HTTP/1.1" 200 -
+127.0.0.1 - - [06/May/2026 15:21:40] "GET /intern-ptdl.html HTTP/1.1" 200 -
+127.0.0.1 - - [06/May/2026 15:21:44] "GET /intern-antt.html HTTP/1.1" 200 -
+127.0.0.1 - - [06/May/2026 15:21:50] "GET /intern-uxui.html HTTP/1.1" 200 -
