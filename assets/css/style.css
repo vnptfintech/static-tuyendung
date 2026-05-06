@@ -1742,6 +1742,19 @@ p.form-message.error {
   line-height: 1.7;
 }
 
+.career-table-layout {
+  display: grid;
+  grid-template-columns: minmax(0, 1.15fr) minmax(0, 0.85fr);
+  gap: 30px;
+  align-items: start;
+}
+
+.career-table-primary,
+.career-table-secondary {
+  display: flex;
+  flex-direction: column;
+}
+
 .career-table-card {
   margin-top: 30px;
   padding: 28px;
@@ -1831,6 +1844,10 @@ p.form-message.error {
 
   .career-table-title {
     font-size: 24px;
+  }
+
+  .career-table-layout {
+    grid-template-columns: 1fr;
   }
 }
 
