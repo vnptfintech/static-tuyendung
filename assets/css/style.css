@@ -2006,6 +2006,44 @@ p.form-message.error {
   width: auto;
 }
 
+.job-outline {
+  color: #121212;
+}
+
+.job-outline-line {
+  display: flex;
+  align-items: flex-start;
+  margin-bottom: 10px;
+  line-height: 1.7;
+}
+
+.job-outline-line--level1 {
+  padding-left: 24px;
+}
+
+.job-outline-line--level2 {
+  padding-left: 72px;
+}
+
+.job-outline-line--root {
+  padding-left: 0;
+}
+
+.job-outline-line--plain {
+  padding-left: 0;
+}
+
+.job-outline-marker {
+  flex: 0 0 24px;
+  font-weight: 700;
+  color: #121212;
+}
+
+.job-outline-text {
+  flex: 1 1 auto;
+  color: #121212;
+}
+
 @media (max-width: 991px) {
   .video-local-player {
     height: 360px;
