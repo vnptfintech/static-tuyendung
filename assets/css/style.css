@@ -1755,6 +1755,10 @@ p.form-message.error {
   flex-direction: column;
 }
 
+.career-table-layout > .career-table-primary:only-child {
+  grid-column: 1 / -1;
+}
+
 .career-table-card {
   margin-top: 30px;
   padding: 28px;
